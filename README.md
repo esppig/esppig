@@ -2,9 +2,9 @@
 **esppig/esppig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌱
 -->
 
-<!-- <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" /> -->
-<!-- Copyright Nintendo -->
-<!-- <section>
+<!-- <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+Copyright Nintendo
+<section>
     <i class="nes-ash"></i>
     <i class="nes-pokeball"></i>
     <i class="nes-charmander"></i>
@@ -17,21 +17,9 @@
 <!-- ![Banner](assets/imgs/oni-banner.jpg) -->
 <!-- ![Banner](assets/imgs/splatoon-banner.jpg) -->
 
-## 👻 &nbsp; WooHoo~
+<!-- ## 👻 &nbsp; WooHoo~ -->
 
 <!-- [url](https://patorjk.com/software/taag/) -->
-
-```md
-   ('-.    .-')     _ (`-.    _ (`-.                             (`\ .-') /`                                     
- _(  OO)  ( OO ).  ( (OO  )  ( (OO  )                             `.( OO ),'                                .--, 
-(,------.(_)---\_)_.`     \ _.`     \ ,-.-')   ,----.          ,--./  .--.   .-'),-----.  .-'),-----.   .--'  /  
- |  .---'/    _ |(__...--''(__...--'' |  |OO) '  .-./-')       |      |  |  ( OO'  .-.  '( OO'  .-.  ' /  ---`   
- |  |    \  :` `. |  /  | | |  /  | | |  |  \ |  |_( O- )      |  |   |  |, /   |  | |  |/   |  | |  |`--'       
-(|  '--.  '..`''.)|  |_.' | |  |_.' | |  |(_/ |  | .--, \      |  |.'.|  |_)\_) |  |\|  |\_) |  |\|  |           
- |  .--' .-._)   \|  .___.' |  .___.',|  |_.'(|  | '. (_/      |         |    \ |  | |  |  \ |  | |  |           
- |  `---.\       /|  |      |  |    (_|  |    |  '--'  |       |   ,'.   |     `'  '-'  '   `'  '-'  '           
- `------' `-----' `--'      `--'      `--'     `------'        '--'   '--'       `-----'      `-----'            
-```
 
 <!-- ```md
    ('-.    .-')     _ (`-.    _ (`-.                      
@@ -45,31 +33,24 @@
  `------' `-----' `--'      `--'      `--'     `------' 
 ``` -->
 
-<!-- ```md
-   ('-.          .-')            _ (`-.          _ (`-.                                   
- _(  OO)        ( OO ).         ( (OO  )        ( (OO  )                                  
-(,------.      (_)---\_)       _.`     \       _.`     \        ,-.-')         ,----.     
- |  .---'      /    _ |       (__...--''      (__...--''        |  |OO)       '  .-./-')  
- |  |          \  :` `.        |  /  | |       |  /  | |        |  |  \       |  |_( O- ) 
-(|  '--.        '..`''.)       |  |_.' |       |  |_.' |        |  |(_/       |  | .--, \ 
- |  .--'       .-._)   \       |  .___.'       |  .___.'       ,|  |_.'      (|  | '. (_/ 
- |  `---.      \       /       |  |            |  |           (_|  |          |  '--'  |  
- `------'       `-----'        `--'            `--'             `--'           `------'  
-``` -->
+<!-- ## 🍻 &nbsp; Cheers~ -->
 
-## 🍻 &nbsp; Cheers~
 
 <em>
 
-<b> 💡 &nbsp; In imagination, i'm a magician who like to explore new technologies, think about interesting or whimsical questions.</b>
+
+<b> ✨ maybe a whimsical person, but aspires to be interesting~ </b>
+
+
+<!-- <b> ✨ &nbsp; In imagination, i'm a magician who like to explore new technologies, think about interesting or whimsical questions.</b>
 
 <b> ✨ &nbsp; I'm constantly extract magic from Computer Science, Mathematics and Philosophy.</b>
 
-<!-- <b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b> -->
+<b> 🌀 &nbsp; I'm also a Pokémon Trainer. Chance a Pokémon battle!!~</b>
 
 <b> 🎵 &nbsp; I'm still learning Blues Harp & Sky-Studio~</b>
 
-<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included. I recommend you try it out~</b>
+<b> 🚀 &nbsp; Finally, I'm interested in Oxygen-Not-Included. I recommend you try it out~</b> -->
 
 </em>
 
@@ -125,7 +106,7 @@
     <b>Let’s find out more interesting things together!</b> 😊
 </em> -->
 
----
-⭐️<img height="24" src="assets/svg/lambda.svg" alt="lambda">
+<!-- --- -->
+<!-- ⭐️<img height="24" src="assets/svg/lambda.svg" alt="lambda"> -->
 <!-- ⭐️ from [espurr](https://github.com/esppig)  -->
  <!-- <img height="16" src="assets/imgs/ash-and-pikachu-footer.jpg"/> -->
